@@ -2,7 +2,7 @@
 
 ![](http://dl.dropbox.com/u/582291/Screenshots/fbhj.png)
 
-Add a view product link on the product edit page.
+Add a delete product link on the product edit page.
 
 ## Installation
 
